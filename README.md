@@ -5,3 +5,11 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/f9c99be0a47f0b776c31/maintainability)](https://codeclimate.com/github/cctalbott/express-api-template/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f9c99be0a47f0b776c31/test_coverage)](https://codeclimate.com/github/cctalbott/express-api-template/test_coverage)
 [![Build status](https://ci.appveyor.com/api/projects/status/9kbq5l4177s8m6cu?svg=true)](https://ci.appveyor.com/project/cctalbott/express-api-template)
+
+## How to run the app
+1. Clone the repo
+2. Open a terminal in the project root and run `yarn startdev`
+
+## How to test
+
+Run `yarn test`
