@@ -4,6 +4,8 @@ import logger from 'morgan';
 import indexRouter from './routes/index';
 import aboutRouter from './routes/about';
 
+import './models/connect';
+
 const app = express();
 
 app.use(logger('dev'));
